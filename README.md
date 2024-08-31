@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]
 
-<!--
-**raemagpantay/raemagpantay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Computer Science Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing a Bachelor of Science in Computer Science at the National College of Science and Technology. Passionate about coding and technology, I'm always eager to learn and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Facts
+
+- 🏫 Studying at National College of Science and Technology
+- 🌱 Currently learning Bachelor of Science in Computer Science
+- 👀 Seeking internships and entry-level programming positions
+- 🤝 Open to collaborating on open-source projects
+
+### 💼 Skills
+
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, JavaScript
+- Databases: php, MySQL
+- Tools & Technologies: Git
+
+### 🛠️ Projects
+
+1. **[Project Name]** - Brief description
+   - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap...
+   - QuadCore Thesis Project - (https://github.com/raemagpantay/QuadCore)
+   - ongoing project - currently a private repository
+
+2. **[Project Name]** - Brief description
+   - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap
+   - 2nd-Year Finals Project - (https://github.com/raemagpantay/Finals_Project1)
+
+### 📚 Coursework Highlights
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Web Development
+
+### 📫 Let's Connect!
+
+- LinkedIn: (https://www.linkedin.com/in/rae-aljon-magpantay/)
+- Email: magpantay.raealjon@gmail.com
+- Portfolio: under construction - exciting projects coming soon!
+
+### 🌟 Goals
+
+I'm actively seeking internships and entry-level positions in software development to apply my skills, gain industry experience, and contribute to meaningful projects. If you have any opportunities or would like to collaborate, please don't hesitate to reach out!
+
+---
+
+💡 Fun Fact: I've mastered the art of "code-life balance" - my typical day involves sprinting in the morning and streching, going out with friends in basketball and debugging or coding and consuming healthy diets. It's all about optimizing the mind-body algorithm!
