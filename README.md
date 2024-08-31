@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Rae Aljon Magpantay
 
 ## 🎓 Computer Science Student | 💻 Aspiring Software Developer
 
@@ -20,12 +20,12 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 
 ### 🛠️ Projects
 
-1. **[Project Name]** - Brief description
+1. QuadCore - Brief description
    - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap...
    - QuadCore Thesis Project - (https://github.com/raemagpantay/QuadCore)
    - ongoing project - currently a private repository
 
-2. **[Project Name]** - Brief description
+2. Finals_Project1 - Brief description
    - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap
    - 2nd-Year Finals Project - (https://github.com/raemagpantay/Finals_Project1)
 
