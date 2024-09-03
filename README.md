@@ -49,3 +49,5 @@ I'm actively seeking internships and entry-level positions in software developme
 ---
 
 💡 Fun Fact: I've mastered the art of "code-life balance" - my typical day involves sprinting in the morning and streching, going out with friends in basketball and debugging or coding and consuming healthy diets. It's all about optimizing the mind-body algorithm!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)]
