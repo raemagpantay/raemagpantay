@@ -11,11 +11,11 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 - 👀 Seeking internships and entry-level programming positions
 - 🤝 Open to collaborating on open-source projects
 
-### 💼 Skills
+### 💼 Learning Skills
 
-- Programming Languages: Python, Java, JavaScript
+- Programming Languages: Python, Java, JavaScript 
 - Web Development: HTML, CSS, JavaScript
-- Databases: php, MySQL
+- Databases: MySQL, php
 - Tools & Technologies: Git
 
 ### 🛠️ Projects
