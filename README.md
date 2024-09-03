@@ -15,7 +15,7 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 
 - Programming Languages: Python, Java, JavaScript 
 - Web Development: HTML, CSS, JavaScript
-- Databases: MySQL, php
+- Databases: php, MySQL
 - Tools & Technologies: Git
 
 ### 🛠️ Projects
