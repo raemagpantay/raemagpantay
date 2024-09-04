@@ -41,6 +41,7 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 - LinkedIn: (https://www.linkedin.com/in/rae-aljon-magpantay/)
 - Email: magpantay.raealjon@gmail.com
 - Portfolio: under construction - exciting projects coming soon!
+- Contact Number: (+63) 9322047101
 
 ### 🌟 Goals
 
