@@ -27,6 +27,10 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 2. Finals_Project1 - Brief description
    - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap
    - 2nd-Year Finals Project - (https://github.com/raemagpantay/Finals_Project1)
+  
+3. PlanetaryDeepSeaSurvivalWeb - Brief description
+   - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
+   - 2nd-Year Finals Project - (https://github.com/)
 
 ### 📚 Coursework Highlights
 
