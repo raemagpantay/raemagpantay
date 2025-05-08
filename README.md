@@ -21,9 +21,8 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 ### 🛠️ Projects
 
 1. QuadCore - Brief description
-   - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap...
-   - QuadCore Thesis Project - (https://github.com/raemagpantay/QuadCore)
-   - ongoing project - currently a private repository
+   - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
+   - QuadCore Thesis Project - (magescoservices.onrender.com/)
 
 2. Finals_Project1 - Brief description
    - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap
