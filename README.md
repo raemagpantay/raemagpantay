@@ -20,7 +20,7 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
 
 ### 🛠️ Projects
 
-1. QuadCore - Brief description
+1. QuadCore - An e-commerce/contracting website of Magesco company
    - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
    - QuadCore Thesis Project - (magescoservices.onrender.com/)
 
