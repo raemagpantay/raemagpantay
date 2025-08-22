@@ -24,13 +24,13 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
    - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
    - QuadCore Thesis Project - (magescoservices.onrender.com/)
 
-2. Finals_Project1 - Brief description
+2. Finals_Project1 - A small website project
    - Technologies used: Git, GitHub, HTML, CSS, JavaScript, Bootstrap
    - 2nd-Year Finals Project - (https://github.com/raemagpantay/Finals_Project1)
   
-3. PlanetaryDeepSeaSurvivalWeb - Brief description
+3. PlanetaryDeepSeaSurvivalWeb - Thesis project
    - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
-   - 2nd-Year Finals Project - (https://github.com/)
+   - 2nd-Year Finals Project - ([https://github.com/](https://landing-page-e7fc.vercel.app/))
 
 ### 📚 Coursework Highlights
 
