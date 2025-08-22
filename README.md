@@ -30,7 +30,7 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
   
 3. PlanetaryDeepSeaSurvivalWeb - Thesis project
    - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
-   - 2nd-Year Finals Project - ([https://github.com/](https://landing-page-e7fc.vercel.app/))
+   - 2nd-Year Finals Project - ([PlanetarySurvivalWebsite/](https://landing-page-e7fc.vercel.app/))
 
 ### 📚 Coursework Highlights
 
