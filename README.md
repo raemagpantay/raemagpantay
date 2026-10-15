@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rae Aljon Magpantay
 
-## 🎓 Computer Science Student | 💻 Aspiring Software Developer
+## 🎓 Computer Science Graduate | 💻 Aspiring Software Developer
 
 I'm currently pursuing a Bachelor of Science in Computer Science at the National College of Science and Technology. Passionate about coding and technology, I'm always eager to learn and contribute to innovative projects.
 
@@ -30,7 +30,11 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the National
   
 3. PlanetaryDeepSeaSurvivalWeb - Thesis project
    - Technologies used: Git, GitHub, Node.js, TypeScript, React.js, Bootstrap...
-   - 2nd-Year Finals Project - ([PlanetarySurvivalWebsite/](https://landing-page-e7fc.vercel.app/))
+   - 4th-Year Thesis Project - ([PlanetarySurvivalWebsite/](https://landing-page-e7fc.vercel.app/))
+  
+4. Expense management website - Website project
+   - Technologies used: Git, GitHub, PHP, Laravel, Node.js, TypeScript, React.js, Bootstrap...
+   - Startup Project - ([[PlanetarySurvivalWebsite/](https://landing-page-e7fc.vercel.app/](https://expense-management-system-1-3sju.onrender.com/)))
 
 ### 📚 Coursework Highlights
 
